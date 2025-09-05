@@ -1,4 +1,5 @@
 # 📦 Locker System
+![gif](/assets/gif.gif)
 
 Um sistema de **gerenciamento de armários de encomendas** para portarias de prédios.  
 Este repositório contém o **backend** desenvolvido em **Java Spring Boot**, como estudo prático de:
